@@ -1,0 +1,49 @@
+appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
+astropy @ file:///home/conda/feedstock_root/build_artifacts/astropy_1612734302496/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/work
+black @ file:///home/conda/feedstock_root/build_artifacts/black-recipe_1599478779128/work
+certifi==2020.12.5
+cfgv==3.2.0
+click==7.1.2
+cycler==0.10.0
+distlib==0.3.1
+filelock==3.0.12
+flake8 @ file:///home/conda/feedstock_root/build_artifacts/flake8_1601874335748/work
+identify==2.1.0
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1614193722790/work
+iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1603384189793/work
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1610099772044/work
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1611858711244/work
+mccabe==0.6.1
+more-itertools @ file:///home/conda/feedstock_root/build_artifacts/more-itertools_1612756563342/work
+mypy-extensions @ file:///home/conda/feedstock_root/build_artifacts/mypy_extensions_1610127166397/work
+nodeenv==1.5.0
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1612953006532/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1612459636436/work
+pathspec @ file:///home/conda/feedstock_root/build_artifacts/pathspec_1605120834673/work
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1614689684281/work
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1610318074388/work
+pre-commit==2.10.1
+py @ file:///home/conda/feedstock_root/build_artifacts/py_1607783655754/work
+pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1589305246696/work
+pyerfa @ file:///home/conda/feedstock_root/build_artifacts/pyerfa_1612741078630/work
+pyflakes==2.2.0
+pyparsing==2.4.7
+PyQt5==5.12.3
+PyQt5-sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+pytest==6.2.2
+python-dateutil==2.8.1
+PyYAML==5.4.1
+regex @ file:///home/conda/feedstock_root/build_artifacts/regex_1610146823779/work
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1609457843674/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1610094708661/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1614279180094/work
+typed-ast @ file:///home/conda/feedstock_root/build_artifacts/typed-ast_1609539256914/work
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+virtualenv==20.4.2
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1614945704755/work

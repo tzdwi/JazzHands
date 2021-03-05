@@ -8,3 +8,22 @@ requires = ["setuptools",
             "cython==0.29.14"]
 
 build-backend = 'setuptools.build_meta'
+
+[tool.black]
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | licenses
+  | references
+)/
+'''
+
+[flake8]
+ignore = E203, E266, E501, W503, F403, F401
+max-line-length = 88
+max-complexity = 18
+select = B,C,E,F,W,T4,B9
